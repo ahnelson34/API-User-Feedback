@@ -1,0 +1,39 @@
+User Feedback:
+
+Show “no results found” message when there are no results
+- Should only display results if last fm has results. 
+- Alternative - show YouTube results of query if nothing found from last.fm
+
+Clicking site name should bring you back to homepage
+
+Tell the user it’s a video that they are getting back
+
+When error message displays, it currently does not remove when moving back to homepage or performing a new search. 
+- Need to add code to hide
+
+“Violet Crime” as search example shows only 3 tracks, only three songs on last.fm
+Might want to change Top 10 Tracks to Top Tracks
+
+Should be able to click youtube thumbnails to go to video
+
+
+Is this an app that shows top ten tracks, or just a refined search of the best results found
+
+Do I want to further refine YouTube results based on tagging
+
+What about adding similar artists
+Similar how? Popularity, famous, genre?
+
+
+Get a new background, the current image fights the content
+- Lower opacity of background
+
+To fill space, add similar artists
+Click the new artist would run the search, rather than make the user perform a new search
+
+
+Make search bar bigger on homepage to make it main focus
+- Search bar box is a bit hidden due to color - fix
+
+Search button could tell you what it is going to find
+
